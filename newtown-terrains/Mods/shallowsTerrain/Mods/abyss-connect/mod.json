@@ -20,5 +20,9 @@
 	"factions" :
 	[
 		"config/terrain/abyssTerrain.json"
+	],
+	"objects" : 
+	[ 
+		"config/banks/waterTemple.json" 
 	]
 }
