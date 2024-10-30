@@ -2,7 +2,6 @@
 	"core:refugeeCamp" : {
 		"types" : {
 			"object" : {
-				"name" : "Refugee Camp",
 				"templates" : {
 					"slAVGrefg0" : {
 						"animation" : "spoiled_land-objects/refugeeCamp/AVGrefg0",
