@@ -128,6 +128,7 @@
 	"core:witchHut"	: {
 		"types" : {
 			"witchHut" : {
+				"compatibilityIdentifiers" : [ "object" ],
 				"templates" : {
 					"iceWitchhut" : {
 						"animation" : "ice object/IceWitchhut",
