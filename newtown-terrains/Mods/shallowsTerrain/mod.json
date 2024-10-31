@@ -21,6 +21,13 @@
 	[
 
 	],
+	"chinese" : {
+		"name" : "浅滩地形",
+		"description" : "浅滩地形资源包。",
+		"translations" : [
+			"translation/shallowsTerrain/chinese.json"
+		]
+	},
 	"czech" : {
 		"name" : "Mělčina",
 		"description" : "Obsahuje podklady pro terén mělčiny."
