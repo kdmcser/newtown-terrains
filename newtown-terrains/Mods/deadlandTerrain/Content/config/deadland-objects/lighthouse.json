@@ -2,7 +2,7 @@
 	"core:lighthouse": {
 
 		"types": {
-			"object": {
+			"lighthouse": {
 				"templates": {
 					"FALF0229": {
 						"animation": "deadland-objects/lighthouse/FALF0229",
