@@ -2,10 +2,6 @@
 	"core:hole": {
 		"types": {
 			"object": {
-							"sounds":
-				{
-					"ambient":["waterflow/reefwaterloop2"]
-				},	
 				"templates": {
 
 					"xFVOD0119": {

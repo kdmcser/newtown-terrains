@@ -1,5 +1,7 @@
 {
-	"core:mountain": {
+	"searocks": {
+		"name" : "Sea rocks",
+		"handler":"static",
 		"types": {
 			"object": {
 				"sounds":

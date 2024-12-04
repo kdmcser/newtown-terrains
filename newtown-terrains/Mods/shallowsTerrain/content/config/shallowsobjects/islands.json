@@ -1,8 +1,10 @@
 {
-	"core:mountain": {
+	"shallowsisland": {
+		"name": "Island",
+		"handler":"static",
 		"types": {
 			"object": {
-				"name": "Island",
+				
 				"sounds":
 				{
 					"ambient":["waterflow/reefwaterloop2"]

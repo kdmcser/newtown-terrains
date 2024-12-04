@@ -1,8 +1,9 @@
 {
-	"core:rock": {
+	"shallowsreefs": {
+		"name" : "Reefs",
+		"handler":"static",
 		"types": {
 			"shallowsRocksHills01": {
-				"name": "Shallows Rocks",
 				"sounds":
 				{
 					"ambient":["waterflow/reefwaterloop2"]

@@ -1,8 +1,10 @@
 {
-	"core:lake": {
+	"shallowsdepression": {
+		"name": "Depression",
+		"handler":"static",
 		"types": {
 			"shallowsdepression": {
-				"name": "Depression",		
+						
 				"sounds":
 				{
 					"ambient":["waterflow/reefwaterloop2"]

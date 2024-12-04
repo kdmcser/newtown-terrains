@@ -1,8 +1,10 @@
 {
-	"core:crater": {
+	"underwaterchasm": {
+		"name": "Underwater Chasm",
+		"handler":"static",
 		"types": {
 			"shallowscrater01": {
-				"name": "Underwater Chasm",
+				
 				"sounds":
 				{
 					"ambient":["waterflow/reefwaterloop2"]

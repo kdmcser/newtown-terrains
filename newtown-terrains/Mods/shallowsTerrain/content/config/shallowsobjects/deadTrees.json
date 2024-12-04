@@ -1,8 +1,10 @@
 {
-	"core:deadVegetation": {
+	"shallowscorals": {
+		"name": "Corals",
+		"handler": "static",
 		"types": {
 			"object": {
-			"name": "Corals",
+			
 				"sounds":
 				{
 					"ambient":["waterflow/reefwaterloop2"]

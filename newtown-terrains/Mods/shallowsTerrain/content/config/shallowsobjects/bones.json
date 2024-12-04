@@ -1,5 +1,7 @@
 {
-	"core:rock": {
+	"shallowsbones": {
+		"name" : "Bones",
+		"handler":"static",
 		"types": {
 			"shallowsbones01": {
 				"name": "Shallows Bones",
