@@ -28,7 +28,7 @@
 		"translations" : [
 			"translation/shallowsTerrain/chinese.json"
 	]
-	}
+	},
 	"polish" : {
 	"name" : "Płycizny",
 	"description" : "Obiekty do nowego terenu płycizn",
