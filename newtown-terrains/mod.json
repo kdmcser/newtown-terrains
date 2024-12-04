@@ -7,6 +7,7 @@
 	"version" : "1.7.0",
 	"changelog" :
 	{
+		"1.7.1"   : [ "Polish translation added, fixes to Shallows" ],
 		"1.7.0"   : [ "Update to vcmi-1.6 format", "Fixes for duplicate identifiers", "Added connector between Plateau terrain and Refugee town" ],
 		"1.6.5"   : [ "Fixed the translation bugs by LeoAllenHan" ],
 		"1.6.4"   : [ "Updated Czech translation" ],
