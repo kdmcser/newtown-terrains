@@ -1,6 +1,5 @@
 {
 	"core:lake": {
-				"name": "Depression",
 		"types": {
 			"shallowsdepression": {
 				"name": "Depression",		
