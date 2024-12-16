@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.7.1",
+	"version" : "1.7.2",
 	"changelog" :
 	{
+                "1.7.2"   : [ "minor fix" ],
 		"1.7.1"   : [ "Polish translation added, fixes to Shallows" ],
 		"1.7.0"   : [ "Update to vcmi-1.6 format", "Fixes for duplicate identifiers", "Added connector between Plateau terrain and Refugee town" ],
 		"1.6.5"   : [ "Fixed the translation bugs by LeoAllenHan" ],
