@@ -25,7 +25,7 @@
 	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.name" : "Magiczne Lustro",
 	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.onEmpty" : "Magiczne Lustro\r\n\r\nTo wygląda jak zwykłe lustro. Prawdopodobnie jesteś zbyt słaby, by rozmawiać z magicznym lustrem. Musisz mieć co najmniej 5. poziom.",
 	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.onSelect" : "Magiczne Lustro\r\n\r\nMagiczne Lustro ma dość pytania, kto jest najpiękniejszą kobietą. Oczywiście nie przyszedłeś zadać tak głupiego pytania. Po rozmowie z magicznym lustrem znalazłeś jakieś surowce pod ziemią.",
-	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.rewards.0" : "Magiczne Lustro\r\n\r\nMagiczne Lustro ma dość pytania, kto jest najpiękniejszą kobietą. Oczywiście nie przyszedłeś zadać tak głupiego pytania. Po rozmowie z magicznym lustrem znalazłeś jakieś surowce pod ziemią."
+	"mapObject.newtown-terrains.stardustterrain.starMirror.starMirror.rewards.0" : "Magiczne Lustro\r\n\r\nMagiczne Lustro ma dość pytania, kto jest najpiękniejszą kobietą. Oczywiście nie przyszedłeś zadać tak głupiego pytania. Po rozmowie z magicznym lustrem znalazłeś jakieś surowce pod ziemią.",
 	"object.newtown-terrains.fieldgloryterrain.gloryCinnabar.name" : "Cynober",
 	"object.newtown-terrains.fieldgloryterrain.graveGlory.name" : "Grób",
 	"object.newtown-terrains.fierylandterrain.flfire.name" : "Ogień",
