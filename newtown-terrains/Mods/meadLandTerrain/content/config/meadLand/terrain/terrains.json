@@ -1,7 +1,7 @@
 {
 	"meadLand" :
 	{
-		"text":"Meadow",
+		"text":"Pasturage",
 		"moveCost" : 100,
 		"minimapUnblocked" : [ 140, 148, 90 ],
 		"minimapBlocked"   : [ 131, 131, 98 ],
