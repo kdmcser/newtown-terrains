@@ -74,7 +74,7 @@
 					},
 					{
 						"message" : 34,
-						"appearChance" : { "min" : 90, "max" : 100 }
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards": [
 							{ "amount": 60, "type": "falv1" },
 							{ "amount": 60, "type": "falv1" },
