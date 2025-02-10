@@ -4,9 +4,10 @@
 	"modType" : "Objects",	
 	"author" : "Ben Yan, zeryss, Kurek",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.7.5",
+	"version" : "1.7.6",
 	"changelog" :
 	{
+		"1.7.6"   : [ "Configuration fixes" ],
 		"1.7.5"   : [ "Meadow renamed to Pasturage" ],
 		"1.7.4"   : [ "Czech translation for map - The frosted land" ],
 		"1.7.3"   : [ "Fix for Iceland's With Hut" ],
